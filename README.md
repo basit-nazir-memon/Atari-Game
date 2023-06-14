@@ -54,6 +54,10 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 For any questions or inquiries, please contact me at basitnazir585@gmail.com.
 
+## Class Diagram
+
+![Atari Game Class Diagram](https://github.com/basit-nazir-memon/Atari-Game/assets/123104663/7d902ef3-0926-476f-97d7-55ea15165065)
+
 ## Screen Shots
 
 ![image](https://github.com/basit-nazir-memon/Atari-Game/assets/123104663/d9286c86-d5f7-4a44-8839-fc825add3da0)
